@@ -1,0 +1,89 @@
+body{
+    font-family: monospace;
+    font-size: 24px;
+    width: 960px;
+    background-image: url("../images/halftone.png");
+    margin: 0 auto;
+    
+}
+
+header{
+    background: #4aaaa5;
+    color: #cccccc; 
+    padding:20px;
+    margin-bottom: 20px;
+    float: left;
+
+}
+ul {
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+    padding: 0;
+}
+li{
+    display: inline;
+}
+
+
+
+#content{
+    clear: both;
+    background: #ffffff;
+    padding: 20px;
+   
+
+
+}
+
+h2{
+    color: #4aaaa5;
+    text-align: left;
+    clear: both;
+}
+img{
+    float:left
+}
+
+footer{
+    background: #666666;
+    padding: 30px;
+}
+
+form{
+    background: #ffffff;
+    
+
+    
+}
+input[type=text] {
+    padding:10px 400px;
+    margin:8px 5px;
+    box-sizing: border-box;
+}
+input[type=textMessage]{
+    padding: 100px 400px;
+    margin: 8px 5px;
+    box-sizing: border-box;
+}    
+
+button {
+    background-color:#4aaaa5 ;
+    color: #cccccc ; 
+    margin-top:20px;
+    margin-bottom:20px;
+    font-size: 24px;
+
+}
+
+.porfolioPics {
+    height: 100px;
+    width: auto;
+    
+
+
+}
+.gameName{
+   background:#4aaaa5;
+
+}
