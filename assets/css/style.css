@@ -40,12 +40,21 @@ h2{
     color: #4aaaa5;
     text-align: left;
     clear: both;
+    margin-left:20px;
+
 }
+
+ 
+
+
+
+
 img{
     float:left
 }
 
 footer{
+    clear: both;
     background: #666666;
     padding: 30px;
 }
@@ -54,7 +63,6 @@ form{
     background: #ffffff;
     
 
-    
 }
 input[type=text] {
     padding:10px 400px;
@@ -75,15 +83,40 @@ button {
     font-size: 24px;
 
 }
-
-.porfolioPics {
-    height: 100px;
-    width: auto;
+.portfolioPics {
+    float: left;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+}
+.gameName {
+    background: #4aaaa5;
+    padding: 14px;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 20px;
+    width: 372px;
+    text-align: center;
     
 
 
 }
-.gameName{
-   background:#4aaaa5;
+
+    
+
+.hangman {
+    float:left;
+}
+.rpgGame {
+    float:left;
+}
+.triviaGame {
+    float:left;
+}
+.rutgersInfoWidget {
+    float: left;
+}
+.rockPaperScissors {
+    float: left;
 
 }
