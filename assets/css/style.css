@@ -57,6 +57,8 @@ footer{
     clear: both;
     background: #666666;
     padding: 30px;
+    border-top: 5px solid #4aaaa5;
+    
 }
 
 form{
